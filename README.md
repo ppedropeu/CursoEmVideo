@@ -19,7 +19,7 @@ Os arquivos seguem a ordem proposta pelo curso e estão organizados por módulos
 ## 🔖 Referência
 
 Curso disponível gratuitamente:
-📺 [Curso Python - Curso em Vídeo (YouTube)](https://youtube.com/playlist?list=PLHz_AreHm4dkZ6DzUe7O9c2Y8F2c4W5yO)
+📺 [Curso Python - Curso em Vídeo (YouTube)](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
 
 ---
 
